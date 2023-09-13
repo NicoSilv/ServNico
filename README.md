@@ -31,3 +31,8 @@
 * __Mob healthbar :__ Permet d'ajouter une bar de vie au entité. Autement configurable.
 * __Sophisticated backpack__ : Ajoute des sac-a-dos modulaire.
 
+
+## Lien du téléchargement de forge et du modpack : 
+* Forge : https://mega.nz/file/1MkXXbjI#Rq1lnkKvYSk2uWtFDnwEeEXz4Og15LVXKFJDcytOKgk
+* Modpack : https://mega.nz/file/1AsWFKCZ#ls2JJKC4V_XCqLAHv87qp7ONnmmNrWUn-AORn6bPzFQ
+
