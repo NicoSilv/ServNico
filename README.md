@@ -22,6 +22,7 @@
 * __Valkyrien Skis :__ Permet d'ajouter de la physique a vos structures.
 * __L Ender Cataclysm :__ Ajoute des boss, monstres, musique, structure et de l'équipement.
 * __Terralith :__ Modifie la génération du monde afin qu'elle sois plus réaliste, ajoute également des biomes.
+* __Spore :__ Ajoute des monstres et autres créatures térrifiantes.
 
 ### Qualité de vie
 * __Apothéosis :__ Ajoute des enchantement, des boss, des gemmes ainsi qu'une refonte du système d'enchant.
