@@ -4,7 +4,7 @@
 
 ## Liste des mods et leurs utilités :
 
-### Technique
+###   Technique
 * __WormHole :__ Permet la création de portail de téléportation modulaire.
 * __Waterframes :__ Permet l'affichage d'image et vidéo directement dans un afficheur Minecraft.
 * __Refined storage :__ Ajoute des système de rangement, de stockage.
@@ -15,7 +15,7 @@
 * __Iron Jetpack :__ Ajoute des jetpacks.
 * __Security craft__ : Ajoute des moyen de protection de zone.
 
-### Environnement
+###   Environnement
 * __Ad Astra mod :__ Permet de voyager dans l'espace, ajoute des déplacement via fusé a travers toute la voie lactée.
 * __Alexs mobs :__ Ajoute tout un tas d'animaux et de créature en tout genre.
 * __Biome O Planty :__ Ajoute beaucoup de biome et de variante de bloc.
@@ -24,7 +24,7 @@
 * __Terralith :__ Modifie la génération du monde afin qu'elle sois plus réaliste, ajoute également des biomes.
 * __Spore :__ Ajoute des monstres et autres créatures térrifiantes.
 
-### Qualité de vie
+###   Qualité de vie
 * __Apothéosis :__ Ajoute des enchantement, des boss, des gemmes ainsi qu'une refonte du système d'enchant.
 * __Building gadgets :__ Ajoute des outils afin de grandement facilité la construction.
 * __Just Enough Item :__ Permet de voir les crafts des différent objets ainsi que les drops des créatures.
@@ -32,6 +32,7 @@
 * __Mob healthbar :__ Permet d'ajouter une bar de vie au entité. Autement configurable.
 * __Sophisticated backpack__ : Ajoute des sac-a-dos modulaire.
 
+------------------------
 
 ## Lien du téléchargement de forge et du modpack : 
 * Forge : https://mega.nz/file/1MkXXbjI#Rq1lnkKvYSk2uWtFDnwEeEXz4Og15LVXKFJDcytOKgk
