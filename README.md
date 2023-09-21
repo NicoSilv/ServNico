@@ -6,7 +6,6 @@
 
 ###   Technique
 * __WormHole :__ Permet la création de portail de téléportation modulaire.
-* __Waterframes :__ Permet l'affichage d'image et vidéo directement dans un afficheur Minecraft.
 * __Refined storage :__ Ajoute des système de rangement, de stockage.
 * __K-Turrets :__ Ajoute des tourelles pour défendre vos positions.
 * __Applied Energetics :__ Mods technologique, ajoute tout un tas de machinerie et d'automatisation.
