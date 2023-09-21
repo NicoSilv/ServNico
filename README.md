@@ -39,5 +39,5 @@
 
 ## Lien du téléchargement de forge et du modpack : 
 * Forge : https://mega.nz/file/1MkXXbjI#Rq1lnkKvYSk2uWtFDnwEeEXz4Og15LVXKFJDcytOKgk
-* Modpack : https://mega.nz/file/1AsWFKCZ#ls2JJKC4V_XCqLAHv87qp7ONnmmNrWUn-AORn6bPzFQ
+* Modpack : https://mega.nz/file/MB8G1BAZ#Qadp_zjHMaPeBJr5L5tbSkMC1e3wc72n_yVhsdX2fuo
 
