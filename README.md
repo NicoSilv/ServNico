@@ -32,7 +32,8 @@
 * __Just Enough Item :__ Permet de voir les crafts des différent objets ainsi que les drops des créatures.
 * __MCW furniture & Mr Craft fish :__ Ajoute des blocs décoratif, chaise, table etc...
 * __Mob healthbar :__ Permet d'ajouter une bar de vie au entité. Autement configurable.
-* __Sophisticated backpack__ : Ajoute des sac-a-dos modulaire.
+* __Sophisticated backpack :__ Ajoute des sac-a-dos modulaire.
+* __VoiceChat :__ Ajoute un chat de proximité.
 
 ------------------------
 
