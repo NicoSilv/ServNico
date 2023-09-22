@@ -13,6 +13,7 @@
 * __Extrem Reactor :__ Permet la création de réacteur nucléaire. Rien que ça.
 * __Iron Jetpack :__ Ajoute des jetpacks.
 * __Security craft__ : Ajoute des moyen de protection de zone.
+* __Cameramod :__ Ajoute des écrans pour afficher des images.
 
 ###   Environnement
 * __Ad Astra mod :__ Permet de voyager dans l'espace, ajoute des déplacement via fusé a travers toute la voie lactée.
