@@ -1,5 +1,5 @@
 # Server minecraft 1.20.1
-#### IP du server : ___FlexIndSMP.omgcraft.fr:10023___
+#### IP du server : ___flexindsmp.omgcraft.fr:10027___
 
 ------------------------
 
